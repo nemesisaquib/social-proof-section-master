@@ -1,5 +1,5 @@
 
-![Design preview for the single-price-grid coding challenge](./design/desktop-preview.png)
+![Design preview for the single-price-grid coding challenge](./design/desktop-design.png)
 ## Author
 
 - Frontend Mentor - [@nemesisaquib](https://www.frontendmentor.io/profile/nemesisaquib)
